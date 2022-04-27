@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mouhib Sahbani
 - 👀 Actually, i’m interested in Mobile Dev
 - 🌱 Currently focused on Flutter
+- 💻 Computer Science Student 
 
 **Feel free to check out everything I do if you find any error or have a suggestion TEXT ME**
 
