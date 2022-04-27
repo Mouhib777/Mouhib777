@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Dev
 - 🌱 Currently focused on Flutter
 
-**Feel free to check out everything I do if you find any error or have a suggestion do live an issue**
+**Feel free to check out everything I do if you find any error or have a suggestion TEXT ME**
 
 <!---
 Mouhib777/Mouhib777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
