@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Mouhib Sahbani
-- 👀 Actually, i’m interested in Mobile Dev
-- 🌱 Currently focused on Flutter & Kotlin
-- 💻 Computer Science Student 
+👋 Hi there! I'm Mouhib Sahbani, a passionate Mobile App Developer.
+🚀 Building exceptional mobile experiences with Flutter and Kotlin.
+💡 Exploring the endless possibilities of mobile development.
+🌐 Check out my latest projects and feel free to contribute or suggest improvements.
+📫 Let's connect and collaborate to create something amazing together!
 
-**Feel free to check out everything I do if you find any error or have a suggestion TEXT ME**
 
 <!---
 Mouhib777/Mouhib777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
