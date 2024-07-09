@@ -1,4 +1,4 @@
-👋 Hi there! I'm Mouhib Sahbani, a passionate Mobile App Developer.
+👋 Hi there! I'm Mouhib Sahbani, a passionate Mobile Apps Developer.
 
 🚀 Building exceptional mobile experiences with Flutter & Kotlin & Swift.
 
