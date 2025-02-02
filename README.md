@@ -1,8 +1,8 @@
-👋 Hi there! I'm Mouhib Sahbani, a passionate Mobile Apps Developer.
+👋 I’m Mouhib Sahbani, a freelance Mobile Developer.
 
-🚀 Building exceptional mobile experiences with Flutter & Kotlin & Swift.
+🚀 I develop & build Flutter apps that make a real difference, not just code.
 
-💡 Exploring the endless possibilities of mobile development.
+💰 You won’t find anything useful here, my best work is private, powering real businesses.
 
-📫 Let's connect and collaborate to create something amazing together!
+📫 Got a serious project? Let’s talk.
 
